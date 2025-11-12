@@ -7,6 +7,8 @@ After extracting the provided archive, I examined the disk file using `fdisk` to
 fdisk -l disko-3.dd
 ```
 
+![fdisk output](1_A_3f45F47K2aQYmD48cvSA.webp)</br>
+
 The output showed **no additional partitions**, which means all file systems were stored **directly within the image**.
 
 ---
@@ -31,6 +33,7 @@ sudo mount -o loop disko-3.dd /mnt/disko3
 
 ### 📂 Step 3. Explore the Mounted Filesystem
 After mounting, navigate to the directory to explore its contents:
+![fdisk output](logimage.webp)</br>
 
 ```bash
 cd /mnt/disko3
@@ -38,6 +41,7 @@ ls
 ```
 
 Inside, we can see several files and folders. Among them, one file stands out: **`flag.gz`**.
+![fdisk output](inside.webp)</br>
 
 ---
 
