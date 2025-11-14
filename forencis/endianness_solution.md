@@ -1,41 +1,60 @@
-# ENDIANNESS_V2_PICOCTF
+# 🧩 ENDIANNESS_V2_PICOCTF
 
-## Mission:
-![alt text](image.png)
+## 🎯 Mission
+![mission](image.png)
 
-## Solution:
+---
 
-### 1. Exploration:
+## 🛠️ Solution
 
-- Firstly, I use xxd command to look inside of the file:
+### 🔍 1. Exploration
+
+- First, I used the `xxd` command to inspect the file:
+
     ```bash
     xxd challangefile
     ```
 
-    ![alt text](image-1.png)
+    ![xxd output](image-1.png)
 
-- Very obviously, it is a jpeg file, but it look kinda weird. Blocks of 4 bytes are being reverse. 
-- After researching for a while, I know that this is little-endian byte order type.
-- So now we know what is it, so how can we reverse from little-endian to big-endian?
+- It is very obvious that the file is a **JPEG**, but it looks strange —  
+  **blocks of 4 bytes are reversed**.
+- After researching for a while, I realized this is due to **little-endian byte order**.
+- Now that we understand the issue, the next question is:  
+  **How can we reverse it back from little-endian to big-endian?**
 
-- I found 2 ways, the first one I have finded on the internet that you cound use hexdump command to reverse all bytes.
+---
+
+### 🔄 2. Method 1 — Using `hexdump`
+
+- I found a method online using the `hexdump` command to reverse every 4-byte block:
 
     ```bash
     hexdump -v -e '1/4 "%08x"' -e '"\n"' challangefile | xxd -r -p > image.jpg
     ```
 
-- The second way is if you dont know or forgot how to write the command is to use python.
+---
 
-    - First, I save a hex dump file into a list:
+### 🐍 3. Method 2 — Using Python
 
-    ![alt text](image-2.png)
+- If you don’t know or forget the `hexdump` syntax, you can also use Python.
 
-    - Then I create a python file that can help me reverse blocks of 4 bites one by one.
+    #### 📄 Step 1 — Save the hex dump into a list
 
-    ![alt text](image-3.png).
 
-    - After run it and save it and use xxd to reverse it into a image. We will see the flag.
+    ![hexdump list](image-2.png)
+
+
+    #### 📄 Step 2 — Create a Python script to reverse each 4-byte block
+
+    ![python script](image-3.png)
+
+    #### ▶️ Step 3 — Run the script and convert it back into an image
 
     ```bash
     python convert.py | xxd -r -p > image.jpg
     ```
+
+- After running this, the image is restored — and you will see the **flag**.
+
+---
