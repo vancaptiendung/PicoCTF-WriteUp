@@ -32,3 +32,6 @@ Each write-up includes:
 ├── 📂 Quantum_scrambler  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Quantum_scramble-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Quantum_Scrambler.md)  
 │<br>
+├── 📂 Tap_to_hash  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Tap_to_hash-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Tap_to_hash.md)  
+│<br>

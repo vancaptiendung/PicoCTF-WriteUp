@@ -1,6 +1,6 @@
 # 🔑 Reverse Engineering: Decrypting the Flag
 
-![](image-3.png)  
+<img src="image-3.png" alt="Code" width="500"/> 
 
 In this challenge, the binary contains an **encryption function** that hides the flag inside a variable called `inner_txt`.
 
@@ -10,7 +10,7 @@ In this challenge, the binary contains an **encryption function** that hides the
 
 Looking at the code, we notice the **encrypt function**:
 
-![Flag revealed](image-4.png)  
+<img src="image-4.png" alt="Code" width="500"/>  
 
 💡 Key observation: the flag is stored in `inner_txt` and is processed by this function.
 
@@ -20,7 +20,7 @@ Looking at the code, we notice the **encrypt function**:
 
 To retrieve the flag, we can **write a small script** to reverse the encryption logic:
 
-![Decryption code](image-5.png)  
+<img src="image-5.png" alt="Code" width="500"/>  
 
 By applying this approach, we can **successfully decrypt** the hidden flag.
 
