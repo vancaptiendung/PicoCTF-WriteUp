@@ -30,5 +30,5 @@ Each write-up includes:
 
 ## 🛠️ Reverse Engineering
 ├── 📂 Quantum_scrambler  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Quantum_scramble-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/reverse_engineering/picoCTF/Quantum_scramble.md)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Quantum_scramble-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Quantum_scramble.md)  
 │<br>
