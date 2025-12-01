@@ -16,10 +16,10 @@ Each write-up includes:
 # Solution list
 ## 🧪Forencis
 ├── 📂 DISKO-3  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [DISKO-3-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/DISKO-3-solution.md)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [DISKO-3-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/DISKO-3-solution.md)  
 ├── 📂 Mob-psycho  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Mob-psycho-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/Mob-psycho-solution.md)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Mob-psycho-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Mob-psycho-solution.md)  
 ├── 📂 Endianness  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [endianness_solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/endianness_solution.md)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [endianness_solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/endianness_solution.md)  
 ├── 📂 Event-Viewing  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Event-Viewing-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/Event-Viewing-solution.md)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Event-Viewing-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Event-Viewing-solution.md)  
