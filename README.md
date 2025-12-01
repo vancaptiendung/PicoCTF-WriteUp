@@ -35,3 +35,6 @@ Each write-up includes:
 ├── 📂 Tap_to_hash  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Tap_to_hash-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Tap_to_hash.md)  
 │<br>
+├── 📂 Perplexed  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Perplexed-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/perplexed.md)  
+│<br>
