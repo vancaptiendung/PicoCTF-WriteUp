@@ -15,27 +15,30 @@ Each write-up includes:
 
 # Solution list
 ## 🧪Forencis
-├── 📂 DISKO-3  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [DISKO-3-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/DISKO-3-solution.md)  
-│<br>
-├── 📂 Mob-psycho  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Mob-psycho-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Mob-psycho-solution.md)  
-│<br>
-├── 📂 Endianness  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [endianness_solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/endianness_solution.md)  
-│<br>
-├── 📂 Event-Viewing  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Event-Viewing-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Event-Viewing-solution.md)  
-│<br>
+║── 📂 DISKO-3  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [DISKO-3-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/DISKO-3-solution.md)  
+║<br>
+║── 📂 Mob-psycho  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Mob-psycho-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Mob-psycho-solution.md)  
+║<br>
+║── 📂 Endianness  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [endianness_solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/endianness_solution.md)  
+║<br>
+║── 📂 Event-Viewing  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Event-Viewing-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/blob/main/forencis/picoCTF/Event-Viewing-solution.md)  
+║<br>
 
 ## 🛠️ Reverse Engineering
-├── 📂 PICOCTF<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📂 Quantum_scrambler  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Quantum_scramble-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Quantum_Scrambler.md)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📂 Tap_to_hash  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Tap_to_hash-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Tap_to_hash.md)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📂 Perplexed  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [Perplexed-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/perplexed.md)  
-│<br>
+║┄┄ 📂 PICOCTF<br>
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║┄┄ 📂 Quantum_scrambler  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [<span style="color: orange;">Quantum_scramble-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Quantum_Scrambler.md)  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║┄┄ 📂 Tap_to_hash  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [<span style="color: orange;">Tap_to_hash-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/Tap_to_hash.md)  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║┄┄ 📂 Perplexed  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [<span style="color: orange;">Perplexed-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/perplexed.md)  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;║┄┄ 📂 Vault_door_7  
+║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── 📄 [<span style="color: red;">Vault_door_7-solution](https://github.com/vancaptiendung/PicoCTF-WriteUp/tree/main/reverse_engine/picoCTF/vault-door-7.md)  
+║<br>
